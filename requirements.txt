@@ -1,5 +1,4 @@
 aiogram>=3.0
 sqlalchemy
 aiosqlite
-asyncpg
 python-dotenv
